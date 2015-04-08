@@ -8,7 +8,7 @@
 
 #ifndef __First2DXPro__MyDrawNode__
 #define __First2DXPro__MyDrawNode__
-//hsahsaoihoihcc
+
 #include <iostream>
 #include "cocos2d.h"
 USING_NS_CC;
